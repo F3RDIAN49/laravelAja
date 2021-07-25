@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>Test aja inimah da hehe</h1>
+                <h1 class="title">Test aja inimah da hehe</h1>
             </div>
         </div>
     </div>

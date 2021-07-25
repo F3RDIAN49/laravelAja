@@ -1,17 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
+@extends('layout/main')
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/style.css">
-    <title>About | Ferdian</title>
+@section('title', 'about')
 </head>
 <body>
+    @section('container')
+<div class="container">
+<div class="row">
+<div class="col">
     <h1>Ferdian.D</h1>
     <p>email : ferdiantea04@gmail.com</p>
     <img src="img/poto.jpg" alt="poto" height="200" width="200">
+</div>
+</div>
+</div>
+    @endsection
 
-<script src="js/script.js"></script>    
+{{-- <script src="js/script.js"></script> --}}
 </body>
 </html>

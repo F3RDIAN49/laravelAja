@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap");
+body {
+  background: #444545;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.customNav {
+  color: aquamarine;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #c5e0d8;
+}
+
+.nav-link a {
+  color: #c5e0d8;
+}
+
+.navbar-brand:hover {
+  color: #c5e0d8;
+}
+
+.title {
+  color: #c5e0d8;
+  margin-top: 1rem;
+}
+/*# sourceMappingURL=main.css.map */

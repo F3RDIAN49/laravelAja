@@ -12,6 +12,6 @@
     <img src="img/{{ $image }}" alt="{{ $name }}" height="200" width="200">
 </div>
 
-<script src="js/script.js"></script>
+{{-- <script src="js/script.js"></script> --}}
 </body>
 @endsection
